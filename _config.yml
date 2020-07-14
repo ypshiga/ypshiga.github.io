@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yoichi P. Shiga"
+title                    : "Yoichi Paolo Shiga"
 title_separator          : "-"
 name                     : &name "Yoichi Paolo Shiga"
 description              : &description "Carbon Cycle Scientist"
@@ -86,7 +86,7 @@ author:
   location         : "San Francisco"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=57mDIaAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=57mDIaAAAAAJ&hl=en"{:target="_blank"}
   email            : "yshiga@usra.edu"
   researchgate     : "https://www.researchgate.net/profile/Yoichi_Shiga"
   uri              :
