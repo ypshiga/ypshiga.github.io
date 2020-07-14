@@ -26,7 +26,8 @@ Positions
   * Mountain View, California
   * Exploring the terrestrial carbon cycle using atmospheric observations, remote sensing, and geostatistical data fusion.
 
-*  _Postdoctoral Research Fellow, Supervisor: Dr. Joseph Berry_ **(April 2018 - July 2019)**
+
+* _Postdoctoral Research Fellow, Supervisor: Dr. Joseph Berry_ **(April 2018 - July 2019)**
   * **Carnegie Institution for Science, Department of Global Ecology**
   * Stanford, California
   * Estimation of photosynthetic carbon fluxes by combining atmospheric carbonyl sulfide observations with remote sensing observations.
