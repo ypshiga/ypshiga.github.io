@@ -12,14 +12,14 @@ Hi! My name is Yoichi Shiga, I am a Visiting Associate Scientist, Earth Science 
 
 My research
 ======
-
+My research focuses on exploring the terretrial carbon cycle using a combination of atmospheric observations, remote sensing, inverse modeling, and geostatistical data fusion approaches. Using these tools, I primarily  seek to improve our understanding of the integrated dynamics of land-atmosphere exchanges at region-to-continental scales. 
 
 My background
 ======
-
+I recieved my BS in aerospace engineering at UCSD. I then recieved by MS in Environmental Engineering from University of Michigan and my PhD from Stanford University (also in Environmental Engineering).
 
 My teaching
 ======
-
+I have always had a passion for teaching. I have taught various age groups from elementary aged students to continuing studies students. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
 
 
