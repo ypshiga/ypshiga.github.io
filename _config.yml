@@ -84,10 +84,10 @@ author:
   avatar           : "IMG_0440_sq2.jpg"
   bio              : "Carbon Cycle Scientist"
   location         : "San Francisco"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "USRA"
+  pubmed           : "https://www.researchgate.net/profile/Yoichi_Shiga"
   googlescholar    : "https://scholar.google.com/citations?user=57mDIaAAAAAJ&hl=en"
-  email            :
+  email            : "yshiga@usra.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
