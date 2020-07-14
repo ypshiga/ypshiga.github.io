@@ -24,13 +24,13 @@ Positions
 * Universities Space Research Association, NASA Academic Mission Services, NASA Ames Research Center
   * Mountain View, California
   * August 2019 - Present
-  * Visiting Associate Scientist, Earth Science
+  * _Visiting Associate Scientist, Earth Science_
   * Exploring the terrestrial carbon cycle using atmospheric observations, remote sensing, and geostatistical data fusion.
 
 * Carnegie Institution for Science, Department of Global Ecology
   * Stanford, California
   * April 2018 - July 2019
-  * Postdoctoral Research Fellow, Supervisor: Dr. Joseph Berry
+  * _Postdoctoral Research Fellow_, Supervisor: Dr. Joseph Berry
   * Estimation of photosynthetic carbon fluxes by combining atmospheric carbonyl sulfide observations with remote sensing observations.
   
 
