@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yoichi Shiga, I am an Earth Scientist at [Universities Space Research Association](https://www.usra.edu/). I work primarily with the [Earth Science Division](https://www.nasa.gov/centers/ames/earthscience) at NASA Ames as a part of the NASA Academic Mission Services ([NAMS](https://nams.usra.edu/)) contract.
+Hi! My name is Yoichi Shiga, I am an Earth Scientist at [Universities Space Research Association](https://www.usra.edu/){:target="_blank"}. I work primarily with the [Earth Science Division](https://www.nasa.gov/centers/ames/earthscience){:target="_blank"} at NASA Ames as a part of the NASA Academic Mission Services ([NAMS](https://nams.usra.edu/){:target="_blank"}) contract.
 
 My research
 ======
@@ -18,7 +18,7 @@ I am currently working on a project to estimate North American photosynthetic ca
 
 My background
 ======
-I recieved my BS in Aerospace Engineering from the University of California San Diego and my MS in Environmental Engineering from University of Michigan. I recieved my PhD from Stanford University with Anna Michalak from the Carnegie Instiution for Science's [Department of Global Ecology](https://dge.carnegiescience.edu/).
+I recieved my BS in Aerospace Engineering from the University of California San Diego and my MS in Environmental Engineering from University of Michigan. I recieved my PhD from Stanford University with Anna Michalak from the Carnegie Instiution for Science's [Department of Global Ecology](https://dge.carnegiescience.edu/){:target="_blank"}.
 
 My teaching
 ======
