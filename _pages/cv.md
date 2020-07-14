@@ -21,15 +21,14 @@ Education
 
 Positions
 ======
-* _Visiting Associate Scientist, Earth Science_ **(August 2019 - Present)**
-  * **Universities Space Research Association, NASA Academic Mission Services, NASA Ames Research Center**
-  * Mountain View, California
+* _Visiting Associate Scientist, Earth Science (August 2019 - Present)_
+  * **Universities Space Research Association, NASA Academic Mission Services**
+  * **NASA Ames Research Center, Mountain View, CA**
   * Exploring the terrestrial carbon cycle using atmospheric observations, remote sensing, and geostatistical data fusion.
 
-
-* _Postdoctoral Research Fellow, Supervisor: Dr. Joseph Berry_ **(April 2018 - July 2019)**
-  * **Carnegie Institution for Science, Department of Global Ecology**
-  * Stanford, California
+* _Postdoctoral Research Fellow, Supervisor: Dr. Joseph Berry (April 2018 - July 2019)_
+  * **Carnegie Institution for Science**
+  * **Department of Global Ecology, Stanford, CA**
   * Estimation of photosynthetic carbon fluxes by combining atmospheric carbonyl sulfide observations with remote sensing observations.
   
 
@@ -42,15 +41,15 @@ Publications
   
 Academic Leadership and Service
 ======
-* _Peer Ombuds Officer_ **(2015-2019)**
+* _Peer Ombuds Officer (2015-2019)_
   * **Carnegie Institution for Science**
   * **Department of Global Ecology, Stanford, CA**
   * International Association of Ombudsman Certified
   * Provided impartial, informal, independent, and confidential avenue for concerns to be voiced and
   * conflict resolution. Reported directly to department director.
   
-* _Board Member_ **(2013-2017)**
+* _Board Member (2013-2017)_
   * **American Society for Engineering Education (ASEE) Stanford Chapter**
-  * Stanford, CA
+  * **Stanford, CA**
   * Organized monthly science and engineering education discussions (monthly attendance ~ 25)
   * Planned annual engineering education colloquium (attendance ~ 100)
