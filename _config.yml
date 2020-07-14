@@ -85,10 +85,10 @@ author:
   bio              : "Carbon Cycle Scientist"
   location         : "San Francisco"
   employer         : 
-  pubmed           : "https://www.researchgate.net/profile/Yoichi_Shiga"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=57mDIaAAAAAJ&hl=en"
   email            : "yshiga@usra.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yoichi_Shiga"
   uri              :
   bitbucket        :
   codepen          :
