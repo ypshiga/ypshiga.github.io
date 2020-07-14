@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yoichi Shiga, I am a Visiting Associate Scientist, Earth Science at Universities Space Research Association as part of the NASA Academic Mission Services ([NAMS](https://nams.usra.edu/)) contract at NASA’s Ames Research Center in Mountain View, California. I work primarily with the [Earth Science Division](https://www.nasa.gov/centers/ames/earthscience) at NASA Ames.
+Hi! My name is Yoichi Shiga, I am an Earth Scientist at [Universities Space Research Association](https://www.usra.edu/). I work primarily with the [Earth Science Division](https://www.nasa.gov/centers/ames/earthscience) at NASA Ames as a part of the NASA Academic Mission Services ([NAMS](https://nams.usra.edu/)) contract.
 
 My research
 ======
-My research focuses on exploring the terretrial carbon cycle using a combination of atmospheric observations, remote sensing, inverse modeling, and geostatistical data fusion approaches. Using these tools, I primarily  seek to improve our understanding of the integrated dynamics of land-atmosphere exchanges at region-to-continental scales. 
+My research focuses on exploring the terretrial carbon cycle using a combination of atmospheric observations, remote sensing, inverse modeling, and geostatistical data fusion techniques. Using these tools, I primarily seek to improve our understanding of the dynamics of land-atmosphere exchanges at region-to-continental scales. I am currently working on a project to estimate North American photosynthetic carbon fluxes by combining atmospheric carbonyl sulfide measurements and remotely sensed solar-induced chlorophyll fluorescence in a geostatistical inverse model.
 
 My background
 ======
-I recieved my BS in aerospace engineering at UCSD. I then recieved by MS in Environmental Engineering from University of Michigan and my PhD from Stanford University (also in Environmental Engineering).
+I recieved my BS in Aerospace Engineering from the University of California San Diego and my MS in Environmental Engineering from University of Michigan. I recieved my PhD from Stanford University with Anna Michalak from the Carnegie Instiution for Science's [Department of Global Ecology](https://dge.carnegiescience.edu/).
 
 My teaching
 ======
-I have always had a passion for teaching. I have taught various age groups from elementary aged students to continuing studies students. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
+I have always had a passion for teaching and have taught various age groups from elementary aged students to continuing studies students. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
 
 
