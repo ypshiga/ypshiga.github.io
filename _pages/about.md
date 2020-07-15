@@ -22,6 +22,6 @@ I recieved my BS in Aerospace Engineering from the University of California San 
 
 My teaching
 ======
-I have always had a passion for teaching and have taught various age groups from elementary aged children to grandparents. The most recent courses I have taught are _Sustainability Challenges and Transitions_ for first year undergraduates and _Solving Climate Change_ a continuing studies course. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
+I have a passion for teaching and have taught various age groups from elementary aged children to grandparents. Most recently I taught _Sustainability Challenges and Transitions_ for first year undergraduates and _Solving Climate Change_ a continuing studies course. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
 
 
