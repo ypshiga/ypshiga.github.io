@@ -45,8 +45,7 @@ Academic Leadership and Service
   * **Carnegie Institution for Science**
   * **Department of Global Ecology, Stanford, CA**
   * International Association of Ombudsman Certified
-  * Provided impartial, informal, independent, and confidential avenue for concerns to be voiced and
-  * conflict resolution. Reported directly to department director.
+  * Provided impartial, informal, independent, and confidential avenue for concerns to be voiced and conflict resolution. Reported directly to department director.
   
 * _Board Member (2013-2017)_
   * **American Society for Engineering Education (ASEE) Stanford Chapter**
