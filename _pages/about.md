@@ -12,7 +12,7 @@ Hi! My name is Yoichi Shiga, I am an Earth Scientist at [Universities Space Rese
 
 My research
 ======
-My research focuses on exploring the terretrial carbon cycle using a combination of atmospheric observations, remote sensing, inverse modeling, and geostatistical data fusion techniques. Using these tools, I primarily seek to improve our understanding of the spatial and temporal dynamics of biospheric land-atmosphere exchanges at region-to-continental scales. 
+My research focuses on exploring the terrestrial carbon cycle using a combination of atmospheric observations, remote sensing, inverse modeling, and geostatistical data fusion techniques. Using these tools, I primarily seek to improve our understanding of the spatial and temporal dynamics of land-atmosphere carbon exchanges at region-to-continental scales. 
 
 I am currently working on a project to estimate North American photosynthetic carbon fluxes by combining atmospheric carbonyl sulfide measurements and remotely sensed solar-induced chlorophyll fluorescence in a geostatistical inverse model.
 
