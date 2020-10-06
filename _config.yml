@@ -87,10 +87,10 @@ author:
   employer         : 
   pubmed           : # ex
   googlescholar    : "https://scholar.google.com/citations?user=57mDIaAAAAAJ&hl=en"
-  pubmed           : "https://www.researchgate.net/profile/Yoichi_Shiga"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=57mDIaAAAAAJ&hl=en"
   email            : "yshiga@usra.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yoichi_Shiga"
   uri              :
   bitbucket        :
   codepen          :
