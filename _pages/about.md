@@ -18,7 +18,7 @@ I am currently working on a project to estimate North American photosynthetic ca
 
 My background
 ======
-I recieved my BS in Aerospace Engineering from the University of California San Diego and my MS in Environmental Engineering from University of Michigan. I recieved my PhD from Stanford University with Anna Michalak from the Carnegie Institution for Science's [Department of Global Ecology](https://dge.carnegiescience.edu/){:target="_blank"}.
+I received my BS in Aerospace Engineering from the University of California San Diego and my MS in Environmental Engineering from University of Michigan. I recieved my PhD from Stanford University with Anna Michalak from the Carnegie Institution for Science's [Department of Global Ecology](https://dge.carnegiescience.edu/){:target="_blank"}.
 
 My teaching
 ======
