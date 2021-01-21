@@ -18,10 +18,10 @@ I am currently working on a project to estimate North American photosynthetic ca
 
 My background
 ======
-I recieved my BS in Aerospace Engineering from the University of California San Diego and my MS in Environmental Engineering from University of Michigan. I recieved my PhD from Stanford University with Anna Michalak from the Carnegie Institution for Science's [Department of Global Ecology](https://dge.carnegiescience.edu/){:target="_blank"}.
+I received my BS in Aerospace Engineering from the University of California San Diego and my MS in Environmental Engineering from University of Michigan. I recieved my PhD from Stanford University with Anna Michalak from the Carnegie Institution for Science's [Department of Global Ecology](https://dge.carnegiescience.edu/){:target="_blank"}.
 
 My teaching
 ======
-I have a passion for teaching and have taught various age groups from elementary aged children to grandparents. Most recently I taught _Sustainability Challenges and Transitions_ for first year undergraduates and _Solving Climate Change_ a continuing studies course. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
+I have a passion for teaching and have taught various age groups from elementary aged children to undergraduates to grandparents. Most recently I am teaching _Air Pollution_ METR 113 in the Meteorology and Climate Science Department at [SJSU](https://www.sjsu.edu/meteorology/){:target="_blank_"}. I have also taught _Sustainability Challenges and Transitions_ for first year undergraduates and _Solving Climate Change_ a continuing studies course. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
 
 
