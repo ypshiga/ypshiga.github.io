@@ -1,5 +1,5 @@
 ---
-title: "Air Pollution METR 113"
+title: "Air Pollution"
 collection: teaching
 type: "Upper Division General Education Course"
 permalink: /teaching/2021-spring-teaching-1
