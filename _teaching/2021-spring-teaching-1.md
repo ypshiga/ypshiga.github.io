@@ -1,5 +1,5 @@
 ---
-title: "Air Pollution"
+title: "Atmospheric Pollution"
 collection: teaching
 type: "Upper Division General Education Course"
 permalink: /teaching/2021-spring-teaching-1
