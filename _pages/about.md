@@ -22,6 +22,6 @@ I received my BS in Aerospace Engineering from the University of California San 
 
 My teaching
 ======
-I have a passion for teaching and have taught various age groups from elementary aged children to undergraduates to grandparents. Most recently I am teaching _Atmospheric Pollution_ METR 113 in the Meteorology and Climate Science Department at [SJSU](https://www.sjsu.edu/meteorology/){:target="_blank_"}. I have also taught _Sustainability Challenges and Transitions_ for first year undergraduates and guest lectured for _Solving Climate Change_ a continuing studies course. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
+I have a passion for teaching and have taught various age groups from elementary aged children to undergraduates to grandparents. Most recently I taught _Atmospheric Pollution_ METR 113 in the Meteorology and Climate Science Department at [SJSU](https://www.sjsu.edu/meteorology/){:target="_blank_"}. I have also taught _Sustainability Challenges and Transitions_ for first year undergraduates and guest lectured for _Solving Climate Change_ a continuing studies course. I approach teaching as a way to engage learners in an experience that stimulates critical thinking.
 
 
