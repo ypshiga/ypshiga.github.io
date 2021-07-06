@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yoichi Shiga, I am an Earth Scientist at [Universities Space Research Association](https://www.usra.edu/){:target="_blank"}. I work primarily with the [Earth Science Division](https://www.nasa.gov/centers/ames/earthscience){:target="_blank"} at NASA Ames as a part of the NASA Academic Mission Services ([NAMS](https://nams.usra.edu/){:target="_blank"}) contract.
+Hi! My name is Yoichi Shiga, I am an Earth Scientist at [Universities Space Research Association](https://www.usra.edu/){:target="_blank"} working primarily with the [Earth Science Division](https://www.nasa.gov/centers/ames/earthscience){:target="_blank"} at NASA Ames.
 
 My research
 ======
